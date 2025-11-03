@@ -1,4 +1,4 @@
-# 社区医疗
+# 社区医疗 Community healthcare
 
 毕业设计：主题“社区医疗”
 
